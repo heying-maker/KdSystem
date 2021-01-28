@@ -13,3 +13,11 @@ $ npm run start
 ```sh
 $ npm run build
 ```
+## node
+```sh
+nvm use 10.22.1
+```
+## git
+```sh 
+https://github.com/heying-maker/KdSystem.git
+```

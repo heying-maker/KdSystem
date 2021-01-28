@@ -5,9 +5,6 @@ module.exports = {
   // 入口文件
   entry: isDev ? 'src/index.ts' : 'src/index.ts',
   // 公共资源文件，会拷贝到打包之后的文件夹
-  assetsPath: 'public',
-  // 打包生成的路径的根路径
-  publicPath: './',
   build: {
     // 打包类型，可选值 lib | app
     type: 'app',

@@ -10,19 +10,25 @@
   },
   "dependencies": {
     "@types/antd": "^1.0.0",
+    "@types/jquery": "^3.5.5",
     "antd": "^4.9.4",
+    "jquery": "^3.5.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "reflux": "^6.4.1"
   },
   "devDependencies": {
-    "@kdzs/cli": "^0.1.20",
+    "@kdzs/cli": "^1.1.0",
     "@kdzs/eslint-config-react": "^0.0.4",
     "@types/react": "^16.9.55",
     "@types/react-dom": "^16.9.9",
     "@types/webpack": "^4.41.24",
     "conventional-changelog-cli": "^2.1.0",
+    "fabric": "^4.3.0",
+    "hotkeys-js": "^3.8.2",
+    "mirrorx": "0.2.13",
     "postcss": "^8.1.4",
-    "mirrorx": "0.2.13"
+    "react-mixin": "^2.0.2"
   },
   "husky": {
     "hooks": {
